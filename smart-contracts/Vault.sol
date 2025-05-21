@@ -167,3 +167,4 @@ contract EnterpriseYieldVault is ReentrancyGuard, Ownable {
 // Hash 9730
 // Hash 4612
 // Hash 9209
+// Hash 6298
